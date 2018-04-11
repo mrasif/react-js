@@ -1,0 +1,19 @@
+.cards {
+	margin: 10px;
+	border: 1px solid #EEE;
+	display: inline-block;
+	width: 200px;
+	border-radius: 8px 8px 8px 8px;
+}
+.cards h1 {
+	border-radius: 8px 8px 0px 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 10px;
+	color: yellow;
+	background-color: blue;
+}
+.cards span {
+	display: inline-block;
+	padding: 10px;
+}
